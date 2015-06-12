@@ -1,0 +1,17 @@
+{
+  "name": "JavaScriptJSON",
+  "version": "0.0.1",
+  "description": "JavaScript and JSON Sample",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronaguilar/json.git"
+  },
+  "author": "Aaron Aguilar",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.9.1",
+    "jshint-stylish": "^1.0.0"
+  }
+}
