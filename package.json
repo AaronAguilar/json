@@ -12,6 +12,7 @@
     "gulp-jshint": "^1.11.0",
     "gulp-util": "^2.2.20",
     "gulp-webserver": "^0.9.1",
-    "jshint-stylish": "^1.0.0"
+    "jshint-stylish": "^1.0.0",
+    "mustache": "^2.1.1"
   }
 }
